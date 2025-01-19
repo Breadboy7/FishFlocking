@@ -65,7 +65,7 @@ LODGroup:
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 3814634243224011305}
-  - screenRelativeHeight: 0.05
+  - screenRelativeHeight: 0.012880631
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 727356853111813937}
@@ -104,7 +104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6501b122a02239d44b63971d69be1045, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: 0
 --- !u!1 &1915371716169189145
 GameObject:
   m_ObjectHideFlags: 0
